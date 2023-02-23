@@ -1,1 +1,1 @@
-# My Leetcode practice solution with the stupid way
+# My Leetcode practice solution
